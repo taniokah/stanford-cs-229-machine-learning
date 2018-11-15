@@ -5,23 +5,23 @@
 - モデルを学習するとき専用の tips や tricks と合わせた **機械学習分野の虎の巻** です。
 - 前述のすべての要素が **コンセプトの究極の編集物** として、いつでもあなたは利用できます！
 
-## Content
-#### VIP Cheatsheets
+## コンテンツ
+#### VIP 虎の巻
 <a href="https://github.com/afshinea/stanford-cs-229-machine-learning/blob/master/en/cheatsheet-supervised-learning.pdf"><img src="https://stanford.edu/~shervine/images/vip-cheatsheet-supervised-learning.png?" alt="Illustration" width="220px"/></a><a href="https://github.com/afshinea/stanford-cs-229-machine-learning/blob/master/en/cheatsheet-unsupervised-learning.pdf"><img src="https://stanford.edu/~shervine/images/vip-cheatsheet-unsupervised-learning.png" alt="Illustration" width="220px"/></a><a href="https://github.com/afshinea/stanford-cs-229-machine-learning/blob/master/en/cheatsheet-deep-learning.pdf"><img src="https://stanford.edu/~shervine/images/vip-cheatsheet-deep-learning.png" alt="Illustration" width="220px"/></a><a href="https://github.com/afshinea/stanford-cs-229-machine-learning/blob/master/en/cheatsheet-machine-learning-tips-and-tricks.pdf"><img src="https://stanford.edu/~shervine/images/vip-cheatsheet-machine-learning-tricks.png" alt="Illustration" width="220px"/></a>
 &nbsp; &nbsp; &nbsp;&nbsp; &nbsp; Supervised Learning &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; Unsupervised Learning &nbsp; &nbsp; &nbsp; &nbsp;&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; Deep Learning &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; Tips and tricks
 
-#### VIP Refreshers
+#### VIP 復習
 <a href="https://github.com/afshinea/stanford-cs-229-machine-learning/blob/master/en/refresher-probabilities-statistics.pdf"><img src="https://stanford.edu/~shervine/images/vip-refresher-probabilities-and-statistics.png" alt="Illustration" width="220px"/></a><a href="https://github.com/afshinea/stanford-cs-229-machine-learning/blob/master/en/refresher-algebra-calculus.pdf"><img src="https://stanford.edu/~shervine/images/vip-refresher-linear-algebra-and-calculus.png#1" alt="Illustration" width="220px"/></a> &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;&nbsp; &nbsp; &nbsp; Probabilities and Statistics &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; Algebra and Calculus
 
 
-#### Super VIP Cheatsheet
+#### 超 VIP 虎の巻
 <a href="https://github.com/afshinea/stanford-cs-229-machine-learning/blob/master/en/super-cheatsheet-machine-learning.pdf"><img src="https://stanford.edu/~shervine/images/super-vip-cheatsheet.png" alt="Illustration" width="400px"/></a> &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;&nbsp; &nbsp; &nbsp; All the above gathered in one place
 
-## Website
-This material is also available on a dedicated [website](https://stanford.edu/~shervine/teaching/cs-229.html), so that you can enjoy reading it from any device.
+## ウェブサイト
+この資料はこちら[ウェブサイト](https://stanford.edu/~shervine/teaching/cs-229.html)からも入手可能で、どんなデバイスからもお読みいただけます。
 
-## Translation
-Would you like to see these cheatsheets in your native language? You can help us translating them on [this dedicated repo](https://github.com/shervinea/cheatsheet-translation)!
+## 翻訳
+これらの虎の巻をみなさんの言語で読みたいですか？ あなたは[専用リポジトリ](https://github.com/shervinea/cheatsheet-translation)で翻訳の手伝いをすることができます。
 
-## Authors
+## 著者
 [Afshine Amidi](https://twitter.com/afshinea) (Ecole Centrale Paris, MIT) and [Shervine Amidi](https://twitter.com/shervinea) (Ecole Centrale Paris, Stanford University)
